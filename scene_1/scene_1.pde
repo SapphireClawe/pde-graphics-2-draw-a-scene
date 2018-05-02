@@ -15,6 +15,7 @@ void setup() {
 void draw() {
   stroke(0, 0, 0);
     strokeWeight(2);
+    fill(9, 27, 66);
     rect(350, 100, 500, 300);
 
 }
