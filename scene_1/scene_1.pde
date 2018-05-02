@@ -13,6 +13,8 @@ void setup() {
 }
 
 void draw() {
+  stroke(0, 0, 0);
+    strokeWeight(2);
     rect(350, 100, 500, 300);
 
 }
