@@ -17,5 +17,9 @@ void draw() {
     strokeWeight(2);
     fill(9, 27, 66);
     rect(350, 100, 500, 300);
+  stroke(0, 0, 0);
+    strokeWeight(2);
+    fill(9, 27, 66);
+    rect(0, 100, 200, 600);
 
 }
