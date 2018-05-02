@@ -34,5 +34,9 @@ void draw() {
     ellipse(275, 250, 15, 50);
     ellipse(325, 250, 15, 50);
     
+  stroke(204, 106, 189);
+    strokeWeight(20);
+    line(400, 650, 900, 650);
+    
 
 }
